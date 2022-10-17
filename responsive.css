@@ -1,0 +1,15 @@
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .cw-banner .banner .btn {
+        color: black;
+        background-color: white;
+        border-radius: 15px;
+        font-weight: bold;
+        margin-left: 135px !important;
+    }
+    .sec-book .card img{
+        width: auto;
+        height: 15rem;
+        margin-left: 3.5rem !important;
+        /* padding: 10%; */
+    }
+}

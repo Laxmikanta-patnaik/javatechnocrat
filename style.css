@@ -1,0 +1,337 @@
+/* COMMON EDIT FOR ALL */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    scroll-behavior: auto !important;
+    overflow-x: hidden !important;
+}
+
+
+/* NAVIGATION BAR DESIGN */
+.logoedit {
+    height: 45px;
+}
+marquee{
+    color: yellow !important;
+    font-weight: bold !important;
+}
+.jtcolor {
+    color: #e5733e !important;
+}
+
+.nav-link {
+    font-weight: bold !important;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.nav-item a:hover {
+    color: #e5733e !important;
+
+}
+
+/* NAVIGATION BAR DESIGN */
+
+/* COMMON EDIT FOR ALL */
+video {
+    height: auto;
+    width: 100%;
+    border: 5px solid #fff;
+    border-radius: 37px;
+    padding: 15px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+/* HOME PAGE DESIGN */
+/* BANNER PAGE DESIGN */
+.cw-banner {
+    background-color: #e5733e;
+}
+.c1{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/image/banner/core_java.jpg');
+}
+.c2{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/image/banner/core_java.jpg');
+}
+.c3{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/image/banner/core_java.jpg');
+}
+.c4{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/image/banner/core_java.jpg');
+}
+.c5{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/image/banner/core_java.jpg');
+}
+.c6{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/image/banner/core_java.jpg');
+}
+
+.banner h1 {
+    font-weight: bolder !important;
+    line-height: 35px;
+
+}
+
+.banner p {
+    color: aliceblue;
+    font-weight: bold;
+    line-height: 15px;
+}
+
+.banner .btn {
+    color: black;
+    background-color: white;
+    border-radius: 15px;
+    font-weight: bold;
+    margin-left: 300px;
+
+}
+
+.cw-btn:hover {
+    color: aliceblue !important;
+    background-color: black !important;
+
+}
+
+/* MORE OF JT */
+.cw-more-jt h1 {
+    font-weight: bold;
+}
+
+.card .card-img {
+    height: 150px;
+    width: 150px;
+}
+
+.card {
+    border: 3px solid #e5733e !important;
+    border-radius: 30px !important;
+}
+
+.card-body h3 {
+    font-weight: bolder;
+    color: #e5733e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-body p {
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.card-body .btn {
+    background-color: #e5733e;
+    color: white;
+    border: 2px solid yellow;
+    border-radius: 15px;
+
+}
+
+.card-body .btn:hover {
+    background-color: black !important;
+    color: #e5733e !important;
+}
+
+/* <!-- HOW WE TEACH SECTION--> */
+.cw-teaching-class {
+    background-color: #e5733e;
+}
+
+.jt-teach h1 {
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.jt-teach p {
+    line-height: 25px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.jt-teach .btn {
+    background-color: white;
+    color: black;
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
+
+.jt-teach .btn:hover {
+    background-color: black !important;
+    color: #e5733e !important;
+}
+
+/* <!-- RECOMMENDED COURSE SECTION --> */
+.cw-reco-course {
+    background-color: black;
+}
+
+.cw-reco-course .card img {
+    border-radius: 15px;
+}
+
+/* <!-- SEND A MESSAGE TO US SECTION START --> */
+.cw-message-us {
+    background-image: linear-gradient(rgba(171, 171, 171, 0.9), rgba(171, 171, 171, 0.9)), url("assets/image/Java-Technocrat-22-02-w-35.webp");
+
+}
+
+.message-us h2 {
+    color: #e5733e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.message-us {
+    border: 5px solid #e5733e;
+    border-radius: 15px;
+}
+
+.cw-m-sub .btn {
+    color: rgb(255, 166, 0);
+    font-weight: bold;
+    background-color: #fff;
+    border: 3px solid #e5733e;
+}
+
+.cw-m-sub .btn:hover {
+    color: black;
+    background-color: rgb(255, 153, 0);
+    border: 3px solid #e5733e;
+}
+
+/* <!-- LEARN FROM THE BEST --> */
+.cw-learn-best p{
+    text-align: justify !important;
+}
+.cw-learn-best {
+    background-color: #e5733e;
+}
+
+.rkd-img {
+    border: 5px solid #fff !important;
+    border-radius: 20px;
+}
+
+.learn-best {
+    background-color: black !important;
+    color: white !important;
+}
+
+.learn-best:hover {
+    color: black !important;
+    background-color: #fff !important;
+}
+
+/* <!-- WHO ARE WE SECTION --> */
+
+.cw-we-are {
+    background-color: #000;
+}
+
+.we-are h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.we-are p {
+    color: #fff;
+}
+
+.we-are .btn {
+    color: #fff;
+    background-color: #e5733e;
+    border: 3px solid #e5733e !important;
+    border-radius: 15px;
+}
+
+.we-are .btn:hover {
+    color: #e5733e;
+    background-color: #fff;
+}
+
+/* <!-- WHY CHOOSE US SECTION --> */
+.cw-card-body h2 {
+    color: #e5733e;
+    font-weight: bold;
+}
+
+.cw-card-body p {
+    line-height: 18px;
+
+}
+
+/* <!-- FOOTER SECTION  --> */
+.cw-footer-sect {
+    background-color: #e5733e;
+}
+.cw-footer-sect li{
+    list-style: none;
+}
+.cw-footer-sect li a{
+    color: white;
+    text-decoration: none;
+}
+/* <!-- COPYRIGHT SECTION --> */
+.cw-copy-right {
+    background-color: #000;
+}
+
+.copy-right {
+    color: #e5733e;
+}
+
+/* HOME PAGE DESIGN */
+
+/* ALL COURSES PAGE DESIGN */
+.img-edit{
+    height: 250px !important;
+}
+/* .all-course-best-class-img img{
+    height: 350px !important;
+} */
+/* ALL COURSES PAGE DESIGN */
+/* CONTACT US PAGE DESIGN */
+.visit-us-icon i {
+    color: #e5733e;
+    font-size: 40px;
+
+}
+
+/* CONTACT US PAGE DESIGN */
+
+
+/* REGISTER PAGE */
+.cw-regi-ac{
+    background-image: linear-gradient(rgba(171,171,171,0.9),rgba(171,171,171,0.9)),url("assets/image/Java-Technocrat-22-02-w-35.webp");
+}
+
+/* RASHMIKANTA DAS */
+.cw-banner-rkd{
+    background-image: linear-gradient(rgba(229, 115, 62,0.5),rgba(229, 115, 62,0.5)),url("assets/image/rkdrkd.png");
+}
+.our-books{
+    background-color: #000;
+}
+.our-books .card img{
+    height: 20rem;
+    width: auto;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.our-books .card-body p{
+    font-weight: bold !important;
+    font-size: small;
+    line-height: 18px;
+}
+.sec-book .card img{
+    width: auto;
+    height: 12rem;
+    /* padding: 10%; */
+}
